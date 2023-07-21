@@ -4,7 +4,7 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/sliit-foss">
-    <img src="https://github.com/vuejssrilanka/vuejssrilanaka/assets/50085447/f575d4e1-46d0-4700-b9b5-c89ec3f9c6e9" height="400"/>
+    <img src="https://github.com/vuejssrilanka/.github/assets/50085447/9174c4da-0946-4bc1-9667-1789fb51f7c5" height="400"/>
   </a>
  <p>
 
