@@ -19,7 +19,7 @@ Our vision is to create a thriving community of Vue.js developers in Sri Lanka, 
 ### Our goal
 Our goal is to support the growth and development of the local tech ecosystem and contribute to the global Vue.js community
 
-<a href="https://www.facebook.com/groups/956997605457925/about" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61550966969868&mibextid=LQQJ4d" target="_blank">
   <img align="center" alt="Vue.js Sri Lanka | Facebook" width="65px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />
 </a> &nbsp;&nbsp;
 <a href="https://www.npmjs.com/~vuejssrilanka" target="_blank">
