@@ -25,4 +25,9 @@ Our goal is to support the growth and development of the local tech ecosystem an
 <a href="https://www.npmjs.com/~vuejssrilanka" target="_blank">
   <img align="center" alt="Vue.js Sri Lanka | NPM" width="65px" src="https://github.com/vuejssrilanka/.github/assets/50085447/650b11dc-53b5-4eae-9d2f-a7b6bed6d0c2" />
 </a> &nbsp;&nbsp;
+<a href="https://twitter.com/vuejssrilanka" target="_blank">
+  <img align="center" alt="Vue.js Sri Lanka | X" width="65px" src="https://github.com/vuejssrilanka/.github/assets/50085447/48e7fec7-6f3b-4742-8075-cf851059fe7d" />
+</a> &nbsp;&nbsp;
+
+
 
